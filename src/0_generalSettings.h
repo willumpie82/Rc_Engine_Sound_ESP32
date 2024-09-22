@@ -47,8 +47,8 @@ wifi_power_t cpType = WIFI_POWER_7dBm; // Only use values from above!
 // WiFi settings (for vehicle configuration website, open 192.168.4.1 in your browser)--------------------------------------------------------------
 // Note: if these credentials were changed, using the configuration website, 
 // you can find the current ones in the serial monitor!
-String default_ssid = "My_Truck"; // Select this network
-String default_password = "123456789"; // Then enter this password
+String default_ssid = "iot"; // Select this network
+String default_password = "Rijnstraat214"; // Then enter this password
 
 // Configuration website settings -------------------------------------------------------------------------------------------------------------------
 #define USE_CSS // Simple, unformatted Website style is used, if not defined
